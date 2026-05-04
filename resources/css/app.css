@@ -1,0 +1,6 @@
+@import './default-skin.css';
+@import './theme.css';
+
+a.slideshowImageWrapper.hasCaption {
+    max-width: 100%;
+}
