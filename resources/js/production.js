@@ -902,7 +902,6 @@ prod.initModules = function (selector) {
 	prod.initCalendar(selector.find(".calendarModule"));
 	prod.initMail(selector.find(".mail"));
 	prod.initSlideshow();
-	initPhotoSwipeFromDOM(".galleryAlbum");
 	prod.initSearch($ec(".searchBox"));
 	prod.initSearchBoxSubmit($ec(".searchBoxSubmit"));
 	prod.initSearchPopup();
@@ -1095,7 +1094,6 @@ prod.initSlideshow = function () {
 		}
 		prod.resizeModules(slideshow);
 		prod.resizeWidthAndHeight(slideshow.find(".captionPositioner"));
-		slideshow.parent().parent().removeClass("hasCallToActionSlide"); //class added in photorotator.js
 		if (slideshow.hasClass("vimeoMode")) {
 			if (typeof Vimeo != "undefined") {
 				if (slideshow.hasClass("autoplayOn")) {

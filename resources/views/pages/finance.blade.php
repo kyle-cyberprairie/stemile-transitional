@@ -68,7 +68,7 @@
                                                     <span class="wysiwygColor3"
                                                         >♦&nbsp; </span
                                                     ><a
-                                                        href="/files/Pre-authorizedDonationPlan.pdf"
+                                                        href="{{ asset('files/Pre-authorizedDonationPlan.pdf') }}"
                                                         target="_blank"
                                                         >Download the form by
                                                         clicking here</a
