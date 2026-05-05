@@ -8,6 +8,11 @@ export default defineConfig({
             refresh: true,
         }),
     ],
+    css: {
+        lightningcss: {
+            errorRecovery: true,
+        },
+    },
     server: {
         watch: {
             ignored: ['**/storage/framework/views/**'],
