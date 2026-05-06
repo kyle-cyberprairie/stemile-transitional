@@ -1197,20 +1197,7 @@
                     </div>
 
                     <div id="search" class="moduleContainer searchContainer">
-                        <label for="searchField" style="display: none"
-                            >Search</label
-                        >
-                        <input
-                            id="searchField"
-                            class="searchBox"
-                            placeholder="Search"
-                        /><span
-                            id="searchSubmit"
-                            class="searchBoxSubmit"
-                            style="background-image: none"
-                            ><svg class="icon">
-                                <use xlink:href="#svgSearch"></use></svg
-                        ></span>
+                        
                     </div>
                     <div id="searchPopup" style="background-image: none">
                         <svg class="icon">

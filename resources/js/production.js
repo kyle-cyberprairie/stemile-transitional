@@ -919,9 +919,6 @@ prod.initModules = function (selector) {
 	prod.initTwitter(selector.find(".twitterModule"));
 	prod.initInfoButtons();
 	prod.paymentForm.init();
-	selector.find(".eCatholicLiveCountdownModule").each(function () {
-		prod.initLiveCountdown($ec(this));
-	});
 	prod.initDynamicThumbs(selector);
 	selector.find(".tabsSection").each(function () {
 		prod.initTabsSection($ec(this));

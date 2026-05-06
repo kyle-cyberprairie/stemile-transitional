@@ -1,114 +1,5 @@
 @charset "UTF-8";
-/* @font-face {
-    font-family: "custom-payment-field-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-field-icons.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-field-icons.ttf)
-            format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "custom-payment-field-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-field-icons.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-field-icons.ttf)
-            format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "custom-payment-title-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-100.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-100.ttf)
-            format("truetype");
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "custom-payment-title-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-100.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-100.ttf)
-            format("truetype");
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "custom-payment-title-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-300.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-300.ttf)
-            format("truetype");
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "custom-payment-title-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-300.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-300.ttf)
-            format("truetype");
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "custom-payment-title-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-400.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-400.ttf)
-            format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "custom-payment-title-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-400.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-400.ttf)
-            format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "custom-payment-title-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-900.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-900.ttf)
-            format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "custom-payment-title-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-900.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-900.ttf)
-            format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-} */
+
 #mobileFrame {
     height: 100%;
 }
@@ -568,1686 +459,7 @@ body
 *:first-child + html .group {
     zoom: 1;
 }
-/* @font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Black.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Black.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Black.ttf) format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Black.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Black.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Black.ttf) format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Black.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Black.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Black.ttf) format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Black.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Black.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Black.ttf) format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Bold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Bold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Bold.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Bold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Bold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Bold.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Bold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Bold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Bold.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Bold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Bold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Bold.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Medium.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Medium.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Medium.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Medium.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Medium.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Medium.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Medium.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Medium.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Medium.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Medium.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Medium.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Medium.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Regular.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Regular.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Regular.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Regular.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Regular.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Regular.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Regular.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Regular.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Regular.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Regular.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Regular.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Regular.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.ttf) format("truetype");
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.ttf) format("truetype");
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.ttf) format("truetype");
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.ttf) format("truetype");
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Black.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Black.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Black.ttf) format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Black.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Black.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Black.ttf) format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Black.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Black.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Black.ttf) format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Black.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Black.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Black.ttf) format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Bold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Bold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Bold.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Bold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Bold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Bold.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Bold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Bold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Bold.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Bold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Bold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Bold.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-ExtraBold.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Medium.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Medium.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Medium.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Medium.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Medium.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Medium.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Medium.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Medium.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Medium.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Medium.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Medium.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Medium.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Regular.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Regular.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Regular.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Regular.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Regular.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Regular.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Regular.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Regular.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Regular.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-Regular.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-Regular.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-Regular.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.ttf) format("truetype");
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.ttf) format("truetype");
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.ttf) format("truetype");
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Cinzel";
-    src:
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.woff2) format("woff2"),
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.woff) format("woff"),
-        url(/ec-fonts/Cinzel/Cinzel-SemiBold.ttf) format("truetype");
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Thin-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Thin-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Thin-webfont.ttf) format("truetype");
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Thin-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Thin-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Thin-webfont.ttf) format("truetype");
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-ThinItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-ThinItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-ThinItalic-webfont.ttf) format("truetype");
-    font-weight: 100;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-ThinItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-ThinItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-ThinItalic-webfont.ttf) format("truetype");
-    font-weight: 100;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Light-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Light-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Light-webfont.ttf) format("truetype");
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Light-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Light-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Light-webfont.ttf) format("truetype");
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-LightItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-LightItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-LightItalic-webfont.ttf) format("truetype");
-    font-weight: 200;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-LightItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-LightItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-LightItalic-webfont.ttf) format("truetype");
-    font-weight: 200;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Regular-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Regular-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Regular-webfont.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Regular-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Regular-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Regular-webfont.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Italic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Italic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Italic-webfont.ttf) format("truetype");
-    font-weight: 400;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Italic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Italic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Italic-webfont.ttf) format("truetype");
-    font-weight: 400;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Medium-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Medium-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Medium-webfont.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Medium-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Medium-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Medium-webfont.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-MediumItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-MediumItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-MediumItalic-webfont.ttf) format("truetype");
-    font-weight: 500;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-MediumItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-MediumItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-MediumItalic-webfont.ttf) format("truetype");
-    font-weight: 500;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Bold-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Bold-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Bold-webfont.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Bold-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Bold-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Bold-webfont.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-BoldItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-BoldItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-BoldItalic-webfont.ttf) format("truetype");
-    font-weight: 700;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-BoldItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-BoldItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-BoldItalic-webfont.ttf) format("truetype");
-    font-weight: 700;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Black-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Black-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Black-webfont.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Black-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Black-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Black-webfont.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-BlackItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-BlackItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-BlackItalic-webfont.ttf) format("truetype");
-    font-weight: 800;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-BlackItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-BlackItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-BlackItalic-webfont.ttf) format("truetype");
-    font-weight: 800;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Thin-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Thin-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Thin-webfont.ttf) format("truetype");
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Thin-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Thin-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Thin-webfont.ttf) format("truetype");
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-ThinItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-ThinItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-ThinItalic-webfont.ttf) format("truetype");
-    font-weight: 100;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-ThinItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-ThinItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-ThinItalic-webfont.ttf) format("truetype");
-    font-weight: 100;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Light-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Light-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Light-webfont.ttf) format("truetype");
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Light-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Light-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Light-webfont.ttf) format("truetype");
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-LightItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-LightItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-LightItalic-webfont.ttf) format("truetype");
-    font-weight: 200;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-LightItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-LightItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-LightItalic-webfont.ttf) format("truetype");
-    font-weight: 200;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Regular-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Regular-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Regular-webfont.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Regular-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Regular-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Regular-webfont.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Italic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Italic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Italic-webfont.ttf) format("truetype");
-    font-weight: 400;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Italic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Italic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Italic-webfont.ttf) format("truetype");
-    font-weight: 400;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Medium-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Medium-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Medium-webfont.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Medium-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Medium-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Medium-webfont.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-MediumItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-MediumItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-MediumItalic-webfont.ttf) format("truetype");
-    font-weight: 500;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-MediumItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-MediumItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-MediumItalic-webfont.ttf) format("truetype");
-    font-weight: 500;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Bold-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Bold-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Bold-webfont.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Bold-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Bold-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Bold-webfont.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-BoldItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-BoldItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-BoldItalic-webfont.ttf) format("truetype");
-    font-weight: 700;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-BoldItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-BoldItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-BoldItalic-webfont.ttf) format("truetype");
-    font-weight: 700;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Black-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Black-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Black-webfont.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-Black-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-Black-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-Black-webfont.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-BlackItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-BlackItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-BlackItalic-webfont.ttf) format("truetype");
-    font-weight: 800;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Roboto";
-    src:
-        url(/ec-fonts/roboto/Roboto-BlackItalic-webfont.woff2) format("woff2"),
-        url(/ec-fonts/roboto/Roboto-BlackItalic-webfont.woff) format("woff"),
-        url(/ec-fonts/roboto/Roboto-BlackItalic-webfont.ttf) format("truetype");
-    font-weight: 800;
-    font-style: italic;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Black.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Black.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Black.ttf) format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Black.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Black.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Black.ttf) format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Black.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Black.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Black.ttf) format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Black.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Black.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Black.ttf) format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Bold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Bold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Bold.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Bold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Bold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Bold.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Bold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Bold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Bold.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Bold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Bold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Bold.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-ExtraBold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-ExtraBold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-ExtraBold.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-ExtraBold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-ExtraBold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-ExtraBold.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-ExtraBold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-ExtraBold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-ExtraBold.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-ExtraBold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-ExtraBold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-ExtraBold.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-ExtraLight.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-ExtraLight.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-ExtraLight.ttf) format("truetype");
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-ExtraLight.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-ExtraLight.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-ExtraLight.ttf) format("truetype");
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-ExtraLight.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-ExtraLight.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-ExtraLight.ttf) format("truetype");
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-ExtraLight.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-ExtraLight.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-ExtraLight.ttf) format("truetype");
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Light.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Light.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Light.ttf) format("truetype");
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Light.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Light.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Light.ttf) format("truetype");
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Light.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Light.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Light.ttf) format("truetype");
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Light.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Light.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Light.ttf) format("truetype");
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Medium.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Medium.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Medium.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Medium.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Medium.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Medium.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Medium.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Medium.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Medium.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Medium.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Medium.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Medium.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Regular.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Regular.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Regular.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Regular.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Regular.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Regular.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Regular.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Regular.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Regular.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Regular.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Regular.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Regular.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-SemiBold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-SemiBold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-SemiBold.ttf) format("truetype");
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-SemiBold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-SemiBold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-SemiBold.ttf) format("truetype");
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-SemiBold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-SemiBold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-SemiBold.ttf) format("truetype");
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-SemiBold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-SemiBold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-SemiBold.ttf) format("truetype");
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Thin.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Thin.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Thin.ttf) format("truetype");
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Thin.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Thin.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Thin.ttf) format("truetype");
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Thin.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Thin.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Thin.ttf) format("truetype");
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Thin.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Thin.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Thin.ttf) format("truetype");
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Black.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Black.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Black.ttf) format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Black.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Black.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Black.ttf) format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Black.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Black.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Black.ttf) format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Black.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Black.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Black.ttf) format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Bold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Bold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Bold.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Bold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Bold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Bold.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Bold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Bold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Bold.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Bold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Bold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Bold.ttf) format("truetype");
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-ExtraBold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-ExtraBold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-ExtraBold.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-ExtraBold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-ExtraBold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-ExtraBold.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-ExtraBold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-ExtraBold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-ExtraBold.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-ExtraBold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-ExtraBold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-ExtraBold.ttf) format("truetype");
-    font-weight: 800;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-ExtraLight.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-ExtraLight.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-ExtraLight.ttf) format("truetype");
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-ExtraLight.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-ExtraLight.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-ExtraLight.ttf) format("truetype");
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-ExtraLight.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-ExtraLight.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-ExtraLight.ttf) format("truetype");
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-ExtraLight.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-ExtraLight.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-ExtraLight.ttf) format("truetype");
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Light.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Light.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Light.ttf) format("truetype");
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Light.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Light.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Light.ttf) format("truetype");
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Light.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Light.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Light.ttf) format("truetype");
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Light.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Light.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Light.ttf) format("truetype");
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Medium.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Medium.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Medium.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Medium.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Medium.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Medium.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Medium.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Medium.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Medium.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Medium.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Medium.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Medium.ttf) format("truetype");
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Regular.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Regular.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Regular.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Regular.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Regular.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Regular.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Regular.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Regular.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Regular.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Regular.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Regular.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Regular.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-SemiBold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-SemiBold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-SemiBold.ttf) format("truetype");
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-SemiBold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-SemiBold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-SemiBold.ttf) format("truetype");
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-SemiBold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-SemiBold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-SemiBold.ttf) format("truetype");
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-SemiBold.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-SemiBold.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-SemiBold.ttf) format("truetype");
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Thin.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Thin.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Thin.ttf) format("truetype");
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Thin.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Thin.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Thin.ttf) format("truetype");
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Thin.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Thin.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Thin.ttf) format("truetype");
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "Inter";
-    src:
-        url(/ec-fonts/Inter/Inter-Thin.woff2) format("woff2"),
-        url(/ec-fonts/Inter/Inter-Thin.woff) format("woff"),
-        url(/ec-fonts/Inter/Inter-Thin.ttf) format("truetype");
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-} */
+
 html {
     height: 100% !important;
     min-height: 100vh;
@@ -2520,68 +732,20 @@ a:hover {
 .moduleSocialMedia a:first-child {
     margin-left: 0px;
 }
-.moduleSocialMedia a.blogSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgBlog");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgBlog', sizingMethod='scale');
-}
-.moduleSocialMedia a.emailSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgEmail");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgEmail', sizingMethod='scale');
-}
-.moduleSocialMedia a.facebookSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgFacebook");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgFacebook', sizingMethod='scale');
-    width: 11.25px;
-}
-.moduleSocialMedia a.twitterSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgTwitter");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgTwitter', sizingMethod='scale');
-}
-.moduleSocialMedia a.flocknoteSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgFlocknote");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgFlocknote', sizingMethod='scale');
-}
-.moduleSocialMedia a.instagramSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgInstagram");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgInstagram', sizingMethod='scale');
-}
-.moduleSocialMedia a.linkedinSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgLinkedIn");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgLinkedIn', sizingMethod='scale');
-}
-.moduleSocialMedia a.phoneSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgPhone");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgPhone', sizingMethod='scale');
-}
-.moduleSocialMedia a.pinterestSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgPinterest");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgPinterest', sizingMethod='scale');
-}
-.moduleSocialMedia a.rssSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgRss");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgRss', sizingMethod='scale');
-}
-.moduleSocialMedia a.vimeoSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgVimeo");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgVimeo', sizingMethod='scale');
-}
-.moduleSocialMedia a.youtubeSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgYouTube");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgYouTube', sizingMethod='scale');
-}
+
 .moduleSocialMedia a.custom1SocialMedia {
     background-image: url("");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='', sizingMethod='scale');
+    
     display: none;
 }
 .moduleSocialMedia a.custom2SocialMedia {
     background-image: url("");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='', sizingMethod='scale');
+    
     display: none;
 }
 .moduleSocialMedia a.custom3SocialMedia {
     background-image: url("");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='', sizingMethod='scale');
+    
     display: none;
 }
 .moduleSocialMedia a:nth-child(n + 6) {
@@ -2714,7 +878,7 @@ a:hover {
 #searchPopup {
     display: block;
     color: #d1d1d1;
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/icons/search.svg?svgSearch")
+    background: url("")
         no-repeat center center;
     position: absolute;
     width: 15px;
@@ -3313,8 +1477,7 @@ a:hover {
     width: 14px;
     height: 14px;
     margin-left: 10px;
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgRss");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgRss', sizingMethod='scale');
+    background-image: url("");
     background-repeat: no-repeat;
     background-size: 14px 14px;
     background-color: default;
@@ -5619,7 +3782,7 @@ img[style*="float: right;"] {
     width: 128px;
     height: 128px;
     margin-bottom: 5px;
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/photo-albums/photo-album-thumbnail-background.png")
+    background: url("")
         center center no-repeat;
     background-color: #e6e6e6;
 }
@@ -6112,7 +4275,7 @@ img[style*="float: right;"] {
     top: 50%;
 }
 .admin .galleryModuleEmpty .moduleBody {
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/slideshow/image-gallery-icon.png")
+    background: url("")
         no-repeat center center;
     background-color: #32466e;
 }
@@ -6121,7 +4284,7 @@ img[style*="float: right;"] {
     position: absolute;
     width: 137px;
     height: 87px;
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/slideshow/image-rotator-arrow.png")
+    background: url("")
         no-repeat center center;
     right: 40px;
     top: 40px;
@@ -6170,7 +4333,7 @@ img[style*="float: right;"] {
     width: 137px;
     height: 87px;
     max-height: 20%;
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/slideshow/image-rotator-arrow.png")
+    background: url("")
         no-repeat top right;
     background-size: contain;
     right: 40px;
@@ -6183,7 +4346,7 @@ img[style*="float: right;"] {
     width: 70%;
     height: 50%;
     max-width: 250px;
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/photo-albums/picture-add-icon.png")
+    background: url("")
         no-repeat center center;
     background-size: contain;
     top: 25%;
@@ -6347,74 +4510,7 @@ img[style*="float: right;"] {
 .buttonModuleButton .buttonLabelContainer {
     z-index: 1;
 }
-.buttonModule .bulletinButton .buttonLabel {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/bulletins.svg");
-}
-.buttonModule .calendarButton .buttonLabel {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/calendar.svg");
-}
-.buttonModule .confessionTimesButton .buttonLabel {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/confession-times.svg");
-}
-.buttonModule .contactUsButton .buttonLabel {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/contact-us.svg");
-}
-.buttonModule .directionsButton .buttonLabel {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/directions.svg");
-}
-.buttonModule .documentsButton .buttonLabel {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/documents.svg");
-}
-.buttonModule .donationButton .buttonLabel {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/donation.svg");
-}
-.buttonModule .eventsButton .buttonLabel {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/events.svg");
-}
-.buttonModule .faithFormationButton .buttonLabel {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/faith-formation.svg");
-}
-.buttonModule .faqButton .buttonLabel {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/faq.svg");
-}
-.buttonModule .homilyButton .buttonLabel {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/homilies.svg");
-}
-.buttonModule .massTimesButton .buttonLabel {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/mass-times.svg");
-}
-.buttonModule .ministryFinderButton .buttonLabel {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/ministry-finder.svg");
-}
-.buttonModule .newsButton .buttonLabel {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/news.svg");
-}
-.buttonModule .parishFinderButton .buttonLabel {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/parish-finder.svg");
-}
-.buttonModule .photoAlbumsButton .buttonLabel {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/photo-albums.svg");
-}
-.buttonModule .portfolioButton .buttonLabel {
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/portfolio.svg")
-        left center no-repeat;
-}
-.buttonModule .pricingButton .buttonLabel {
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/pricing.svg")
-        left center no-repeat;
-}
-.buttonModule .schoolFinderButton .buttonLabel {
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/school-finder.svg")
-        left center no-repeat;
-}
-.buttonModule .testimonialsButton .buttonLabel {
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/testimonials.svg")
-        left center no-repeat;
-}
-.buttonModule .videoButton .buttonLabel {
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/collection-01-dark/video.svg")
-        left center no-repeat;
-}
+
 .buttonModule:not(.focusPointImage) .zoomButton,
 .buttonModule:not(.focusPointImage) .moveImageButton {
     display: none;
@@ -6446,7 +4542,7 @@ img[style*="float: right;"] {
     min-height: 35px;
 }
 #background.admin .buttonModuleEmpty .moduleBody {
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/buttons/button-add-icon.png")
+    background: url("")
         no-repeat center center;
     background-color: #32466e;
 }
@@ -6455,7 +4551,7 @@ img[style*="float: right;"] {
     position: absolute;
     width: 50px;
     height: 32px;
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/slideshow/image-rotator-arrow.png")
+    background: url("")
         no-repeat center center;
     background-size: contain;
     right: 40px;
@@ -6753,7 +4849,7 @@ img[style*="float: right;"] {
     appearance: none;
     -moz-appearance: none;
     -webkit-appearance: none;
-    background-image: url("https://cdn.ecatholic.com/1775595218/images/admin/dropdown-arrow.png");
+    background-image: url("");
     background-position: right 5px bottom 8px;
     background-repeat: no-repeat;
     padding-right: 19px;
@@ -7105,12 +5201,12 @@ img[style*="float: right;"] {
     height: 16px;
     margin-left: 2px;
     border-radius: 8px;
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/online-forms/help-icon-small.png")
+    background: url("")
         center center no-repeat;
     cursor: pointer;
 }
 .formStyling .fieldHelpButton:hover {
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/online-forms/help-icon-hover-small.png")
+    background: url("")
         center center no-repeat;
 }
 .formStyling .fieldHelp {
@@ -7509,7 +5605,7 @@ img[style*="float: right;"] {
     font-size: 0px;
     width: 40px;
     height: 28px;
-    background-image: url("https://cdn.ecatholic.com/1775595218/paymentMinimal/static/shpf/WEBPMIN/images/creditcards.png");
+    background-image: url("");
     background-repeat: no-repeat;
     background-size: 193px 58px;
 }
@@ -7534,7 +5630,7 @@ img[style*="float: right;"] {
     font-size: 0px;
     width: 215px;
     height: 100px;
-    background-image: url("https://cdn.ecatholic.com/1775595218/paymentMinimal/static/shpf/WEBPMIN/images/check.png");
+    background-image: url("");
     background-repeat: no-repeat;
     background-size: 215px 299px;
 }
@@ -7661,7 +5757,7 @@ img[style*="float: right;"] {
     display: none;
 }
 .paymentModule .submitSpinnerIcon {
-    background: url("https://cdn.ecatholic.com/1775595218/images/admin/payments/spinner.png")
+    background: url("")
         no-repeat;
     width: 50px;
     height: 50px;
@@ -8143,8 +6239,8 @@ img[style*="float: right;"] {
     display: inline-block;
     width: 0;
     height: 100%;
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/slideshow/callToActionIcons.svg?svgChevron");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/slideshow/callToActionIcons.svg?svgChevron', sizingMethod='scale');
+    background-image: url("");
+    
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -8321,11 +6417,11 @@ img[style*="float: right;"] {
     height: 100%;
 }
 #vimeoBlocker.play {
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/slideshow/button-play.png")
+    background: url("")
         no-repeat center center;
 }
 #vimeoBlocker.pause:hover {
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/slideshow/button-pause.png")
+    background: url("")
         no-repeat center center;
 }
 .slideshowModule .livePlayerContainer {
@@ -8440,7 +6536,7 @@ img[style*="float: right;"] {
         transparent 0%,
         rgba(0, 0, 0, 0.7) 100%
     );
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr= #00000000, endColorstr= #b3000000);
+    
     overflow: hidden;
 }
 .slideshowModule .backBtn,
@@ -8481,7 +6577,7 @@ img[style*="float: right;"] {
 .slideshowModule .backBtn,
 .moduleBody .backBtn {
     left: 15px;
-    background: url("https://cdn.ecatholic.com/1775595218/themes/theme27/images/arrow.png")
+    background: url("")
         no-repeat center center;
 }
 .slideshowModule .pauseBtn,
@@ -8491,19 +6587,19 @@ img[style*="float: right;"] {
 }
 .slideshowModule .rotatorPause,
 .moduleBody .rotatorPause {
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/slideshow/button-pause.png")
+    background: url("")
         no-repeat center center;
 }
 .slideshowModule .rotatorPlay,
 .moduleBody .rotatorPlay {
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/slideshow/button-play.png")
+    background: url("")
         no-repeat center center;
 }
 .slideshowModule .fwdBtn,
 .moduleBody .fwdBtn {
     right: 15px;
     transform: rotate(180deg);
-    background: url("https://cdn.ecatholic.com/1775595218/themes/theme27/images/arrow.png")
+    background: url("")
         no-repeat center center;
 }
 .slideshowModule .captions,
@@ -9801,8 +7897,8 @@ img[style*="float: right;"] {
     width: 24px;
     height: 24px;
     margin-top: -12px;
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgRss");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgRss', sizingMethod='scale');
+    background-image: url("");
+    
     background-repeat: no-repeat;
     background-size: 24px 24px;
     background-color: default;
@@ -10204,55 +8300,55 @@ add-to-calendar-button,
     color: #fff;
 }
 .personSocialMedia a.blogSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgBlog");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgBlog', sizingMethod='scale');
+    background-image: url("");
+    
 }
 .personSocialMedia a.emailSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgEmail");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgEmail', sizingMethod='scale');
+    background-image: url("");
+    
 }
 .personSocialMedia a.facebookSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgFacebook");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgFacebook', sizingMethod='scale');
+    background-image: url("");
+    
 }
 .personSocialMedia a.twitterSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgTwitter");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgTwitter', sizingMethod='scale');
+    background-image: url("");
+    
 }
 .personSocialMedia a.flocknoteSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgFlocknote");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgFlocknote', sizingMethod='scale');
+    background-image: url("");
+    
 }
 .personSocialMedia a.instagramSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgInstagram");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgInstagram', sizingMethod='scale');
+    background-image: url("");
+    
 }
 .personSocialMedia a.instagramSocialMedia .icon {
     border-radius: 0px;
 }
 .personSocialMedia a.linkedinSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgLinkedIn");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgLinkedIn', sizingMethod='scale');
+    background-image: url("");
+    
 }
 .personSocialMedia a.phoneSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgPhone");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgPhone', sizingMethod='scale');
+    background-image: url("");
+    
 }
 .personSocialMedia a.pinterestSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgPinterest");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgPinterest', sizingMethod='scale');
+    background-image: url("");
+    
 }
 .personSocialMedia a.vimeoSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgVimeo");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgVimeo', sizingMethod='scale');
+    background-image: url("");
+    
 }
 .personSocialMedia a.websiteSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgWeb");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgWeb', sizingMethod='scale');
+    background-image: url("");
+    
 }
 .personSocialMedia a.youtubeSocialMedia {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgYouTube");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://cdn.ecatholic.com/1775595218/base-images/social-media/socialMediaIcons.svg?svgYouTube', sizingMethod='scale');
+    background-image: url("");
+    
 }
 .personSocialMedia a .icon {
     display: block;
@@ -10281,7 +8377,7 @@ add-to-calendar-button,
     background-color: #bd4272;
 }
 .personSocialMedia a.instagramSocialMedia svg {
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/social-media/instagramBg.jpg")
+    background: url("")
         no-repeat center center;
     background-size: 100% 100%;
     border-radius: 0;
@@ -10484,12 +8580,12 @@ add-to-calendar-button,
 }
 #lightbox .lb-prev {
     margin-left: -75px;
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/photo-albums/photo-album-lightbox-left-arrow.png")
+    background: url("")
         no-repeat left 49%;
 }
 #lightbox .lb-next {
     margin-right: -75px;
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/photo-albums/photo-album-lightbox-right-arrow.png")
+    background: url("")
         no-repeat right 49%;
 }
 #lightbox .lb-details {
@@ -10518,63 +8614,7 @@ add-to-calendar-button,
 .news li .thumb {
     margin-top: 0px;
 }
-.eCatholicLiveCountdownModule .liveCountdown {
-    position: relative;
-    padding: 10px 0px;
-    text-align: center;
-}
-.eCatholicLiveCountdownModule .liveCountdown:hover .countdownOverlay {
-    display: flex !important;
-}
-.eCatholicLiveCountdownModule .countdownInner {
-    display: flex;
-    justify-content: center;
-}
-.eCatholicLiveCountdownModule .countdownInner .unit {
-    padding-left: 10px;
-    padding-right: 10px;
-}
-.eCatholicLiveCountdownModule .countdownInner .unit:not(:last-child) {
-    border-right: 1px solid #ccc;
-}
-.eCatholicLiveCountdownModule .number,
-.eCatholicLiveCountdownModule .countdownText {
-    color: inherit;
-    font-weight: bold;
-    font-size: 24px;
-}
-.eCatholicLiveCountdownModule .label {
-    color: inherit;
-    font-weight: normal;
-    font-size: 14px;
-}
-.eCatholicLiveCountdownModule .countdownOverlay {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.4);
-}
-.eCatholicLiveCountdownModule .linkWrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.eCatholicLiveCountdownModule .linkWrapper .countdownLink {
-    min-width: 100px;
-    padding: 10px 20px;
-    border-radius: 5px;
-    background-color: #474c64;
-    color: #fff;
-    text-align: center;
-    cursor: pointer;
-    text-decoration: none;
-}
-.eCatholicLiveCountdownModule .linkWrapper .countdownLink:hover {
-    background-color: #1d1f28;
-    color: #fff;
-}
+
 @keyframes progressBarWidth {
     0% {
         width: 0;
@@ -10678,7 +8718,7 @@ add-to-calendar-button,
     background-color: #ddd;
 }
 .progressBarModule .moduleBody .buttonContainer .facebookButton .fbIcon {
-    background-image: url("https://cdn.ecatholic.com/1775595218/base-images/icons/fb.png");
+    background-image: url("");
     background-size: 100%;
     background-repeat: no-repeat;
     display: inline-block;
@@ -10795,7 +8835,7 @@ add-to-calendar-button,
     font-size: 14px;
 }
 .flocknoteSignupsModule .flocknoteSignupsSubmitSuccess .iconSubmitSuccess {
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/icons/submit-success.png")
+    background: url("")
         no-repeat;
     height: 16px;
     width: 16px;
@@ -12700,7 +10740,7 @@ body.preview.showPreviewToolbar.massModeActive #massModeModal {
     width: 50px;
     color: #fff;
     height: 34px;
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/mobile/navicon.svg?svgNavIcon")
+    background: url("")
         center top no-repeat;
     background-size: 34px 34px;
     font-size: 0px;
@@ -13738,7 +11778,7 @@ body.preview.showPreviewToolbar.massModeActive #massModeModal {
     width: 220px;
     height: 4px;
     margin: 4px 1px;
-    background: url("https://cdn.ecatholic.com/1775595218/images/admin/pw_security.png")
+    background: url("")
         no-repeat;
     appearance: none;
     -webkit-appearance: none;
@@ -13838,11 +11878,11 @@ body.preview.showPreviewToolbar #adminToolbar {
         Arial, sans-serif;
 }
 .ui-widget-header .ui-icon {
-    background-image: url("https://cdn.ecatholic.com/1775595218/images/admin/ui-icons_ffffff_256x240.png");
+    background-image: url("");
 }
 .ui-state-hover .ui-icon,
 .ui-state-focus .ui-icon {
-    background-image: url("https://cdn.ecatholic.com/1775595218/images/admin/ui-icons_ef8c08_256x240.png");
+    background-image: url("");
 }
 .ui-datepicker {
     width: 230px;
@@ -13939,7 +11979,7 @@ body.preview.showPreviewToolbar #adminToolbar {
     left: 2px;
 }
 .ui-datepicker .ui-datepicker-prev .ui-icon {
-    background: url("https://cdn.ecatholic.com/1775595218/images/admin/sprites/png_sprite.png")
+    background: url("")
         no-repeat;
     background-size: 150px;
     background-position: 0 -350px;
@@ -13949,18 +11989,18 @@ body.preview.showPreviewToolbar #adminToolbar {
     right: 2px;
 }
 .ui-datepicker .ui-datepicker-next .ui-icon {
-    background: url("https://cdn.ecatholic.com/1775595218/images/admin/sprites/png_sprite.png")
+    background: url("")
         no-repeat;
     background-size: 150px;
     background-position: 0 -300px;
 }
 .admin #featureSlideshow .slideshowModuleEmpty {
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/slideshow/image-rotator-bg.png")
+    background: url("")
         no-repeat center center;
     background-color: #32466e;
 }
 .admin #featureSlideshow .slideshowModuleEmpty.videoModeAvailable {
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/slideshow/imagevideo-rotator-bg.png")
+    background: url("")
         no-repeat center center;
     background-color: #32466e;
 }
@@ -13973,7 +12013,7 @@ body.preview.showPreviewToolbar #adminToolbar {
     position: absolute;
     width: 137px;
     height: 87px;
-    background: url("https://cdn.ecatholic.com/1775595218/base-images/slideshow/image-rotator-arrow.png")
+    background: url("")
         no-repeat center center;
     right: 40px;
     top: 40px;
@@ -14147,116 +12187,6 @@ body#wysiwygEmailStyling .htmlButton {
 body#wysiwygEmailStyling .htmlButton2 {
     background-color: #1b365d;
 }
-/* @font-face {
-    font-family: "custom-payment-field-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-field-icons.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-field-icons.ttf)
-            format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "custom-payment-field-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-field-icons.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-field-icons.ttf)
-            format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "custom-payment-title-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-100.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-100.ttf)
-            format("truetype");
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "custom-payment-title-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-100.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-100.ttf)
-            format("truetype");
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "custom-payment-title-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-300.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-300.ttf)
-            format("truetype");
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "custom-payment-title-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-300.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-300.ttf)
-            format("truetype");
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "custom-payment-title-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-400.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-400.ttf)
-            format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "custom-payment-title-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-400.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-400.ttf)
-            format("truetype");
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "custom-payment-title-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-900.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-900.ttf)
-            format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: "custom-payment-title-icons";
-    src:
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-900.woff2)
-            format("woff2"),
-        url(https://cdn.ecatholic.com/1775595218/paymentMinimal/icons/custom-payment-title-icons-900.ttf)
-            format("truetype");
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-} */
 h1:not(#pageTitle) {
     font-family: "Cinzel", Georgia, serif;
     font-size: 30px;
@@ -15095,13 +13025,13 @@ h3 {
     #footerBackground {
         border-bottom: 54px solid #474c64;
     }
-    .ecatholic #footerBackground:before {
+    #footerBackground:before {
         content: "";
         position: absolute;
         width: 488px;
         height: 100%;
         left: calc(50% + (975px / 2) - 100px);
-        background: url("https://cdn.ecatholic.com/1775595218/themes/theme27/images/footerBg.png")
+        background: url("")
             no-repeat center center;
         top: 0px;
     }

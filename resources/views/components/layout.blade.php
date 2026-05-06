@@ -63,7 +63,7 @@
     </head>
     <body
         baseurl="/"
-        class="ecatholic pageTypeHome"
+        class="pageTypeHome"
         style="--currentYear: 2026"
     >
         <x-nav />
