@@ -787,7 +787,7 @@
                                     <li id="sideNav_466901" class="navLink">
                                         <a
                                             class="navName"
-                                            href="https://files.ecatholic.com/22617/documents/2020/4/PrayerOfParishRenewal.pdf"
+                                            href="/documents/2020/4/PrayerOfParishRenewal.pdf"
                                             target="_blank"
                                             ><span
                                                 >Prayer for Parish Renewal</span
@@ -1535,7 +1535,7 @@
                                                 class="navLink navElement"
                                             >
                                                 <a
-                                                    href="https://files.ecatholic.com/22617/documents/2020/4/PrayerOfParishRenewal.pdf"
+                                                    href="/documents/2020/4/PrayerOfParishRenewal.pdf"
                                                     target="_blank"
                                                     ><span
                                                         >Prayer for Parish

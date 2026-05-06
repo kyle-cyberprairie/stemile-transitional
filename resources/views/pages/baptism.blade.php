@@ -72,7 +72,7 @@
                                                                     Please
                                                                     complete the
                                                                     <a
-                                                                        href="{{ asset('files/Baptism Registration Form - INFANT.pdf') }}"
+                                                                        href="{{ asset('documents/2026/2/Baptism Registration Form - INFANT.pdf') }}"
                                                                         target="_blank"
                                                                         rel="noopener noreferrer"
                                                                         >Infant
@@ -137,7 +137,7 @@
                                                                         the&nbsp;</span
                                                                     ><a
                                                                         
-                                                                        href="{{ asset('files/Baptism Registration Form - CHILD.pdf') }}"
+                                                                        href="{{ asset('documents/2026/2/Baptism Registration Form - CHILD.pdf') }}"
                                                                         target="_blank"
                                                                         rel="noopener noreferrer"
                                                                         >Child

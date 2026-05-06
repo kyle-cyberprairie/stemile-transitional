@@ -230,131 +230,46 @@
                                                     >&nbsp;
                                                     <hr />
                                                     <br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/5/btn2026-05-03.pdf?t=1777650892000"
+                                                        href="/documents/2026/5/btn2026-05-03.pdf"
+                                                        target="_blank"
                                                         >♦ 03 May 2026, Fifth
                                                         Sunday of Easter
                                                         &nbsp;</a
                                                     ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/4/btn2026-04-26.pdf?t=1777076522000"
+                                                        href="/documents/2026/4/btn2026-04-26.pdf"
+                                                        target="_blank"
                                                     ></a
                                                     ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/4/btn2026-04-26.pdf?t=1777076522000"
+                                                        href="/documents/2026/4/btn2026-04-26.pdf"
+                                                        target="_blank"
                                                         >♦ 26 April 2026, Fourth
                                                         Sunday of
                                                         Easter&nbsp;</a
                                                     >&nbsp;<br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/4/btn2026-04-19.pdf?t=1776391585000"
+                                                        href="/documents/2026/4/btn2026-04-19.pdf"
+                                                        target="_blank"
                                                     ></a
                                                     ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/4/btn2026-04-19.pdf?t=1776391585000"
+                                                        href="/documents/2026/4/btn2026-04-19.pdf"
+                                                        target="_blank"
                                                         >♦ 19 April 2026, Third
                                                         Sunday of Easter
                                                         &nbsp;</a
                                                     ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/4/btn2026-04-12.pdf?t=1775840301000"
+                                                        href="/documents/2026/4/btn2026-04-12.pdf"
+                                                        target="_blank"
                                                     ></a
                                                     ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/4/btn2026-04-12.pdf?t=1775840301000"
+                                                        href="/documents/2026/4/btn2026-04-12.pdf"
+                                                        target="_blank"
                                                         >♦ 12 April 2026, Second
                                                         Sunday of
                                                         Easter&nbsp;</a
                                                     ><br /><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/4/btn2026-04-05.pdf?t=1775265153000"
+                                                        href="/documents/2026/4/btn2026-04-05.pdf"
+                                                        target="_blank"
                                                         >♦ 05 April 2026, Easter
                                                         Sunday</a
-                                                    >​<br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/3/btn2026-03-29.pdf?t=1774654467000"
-                                                    ></a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/3/btn2026-03-29.pdf?t=1774654467000"
-                                                        >♦ 29 March 2026, 6th
-                                                        Sunday of Lent</a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/3/btn2026-03-22.pdf?t=1774114153000"
-                                                    ></a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/3/btn2026-03-22.pdf?t=1774114153000"
-                                                        >♦ 22 March 2026, 5th
-                                                        Sunday of Lent</a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/3/btn2026-03-15.pdf?t=1773420572000"
-                                                    ></a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/3/btn2026-03-15.pdf?t=1773420572000"
-                                                        >♦ 15 March 2026, 4th
-                                                        Sunday of Lent</a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/3/btn2026-03-08.pdf?t=1772851885000"
-                                                    ></a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/3/btn2026-03-08.pdf?t=1772851885000"
-                                                        >♦ 08 March 2026, 3rd
-                                                        Sunday of Lent</a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/2/btn2026-03-01.pdf?t=1772302082000"
-                                                    ></a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/2/btn2026-03-01.pdf?t=1772302082000"
-                                                        >♦ 01 March 2026, 2nd
-                                                        Sunday of Lent</a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/2/btn2026-02-22.pdf?t=1771691877000"
-                                                    ></a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/2/btn2026-02-22.pdf?t=1771691877000"
-                                                        >♦ 22 February 2026, 1st
-                                                        Sunday of Lent</a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/2/btn2026-02-15.pdf?t=1771029330000"
-                                                    ></a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/2/btn2026-02-15.pdf?t=1771029330000"
-                                                        >♦ 15 February 2026, 6th
-                                                        Sunday in Ordinary
-                                                        Time</a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/2/btn2026-02-08.pdf?t=1770423061000"
-                                                    ></a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/2/btn2026-02-08.pdf?t=1770423061000"
-                                                        >♦ 08 February 2026, 5th
-                                                        Sunday in Ordinary
-                                                        Time</a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/1/btn2026-02-01.pdf?t=1769823294000"
-                                                    ></a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/1/btn2026-02-01.pdf?t=1769823294000"
-                                                        >♦ 01 February 2026, 4th
-                                                        Sunday in Ordinary
-                                                        Time</a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/1/btn2026-01-25.pdf?t=1769270884000"
-                                                    ></a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/1/btn2026-01-25.pdf?t=1769270884000"
-                                                        >♦ 25 January 2026, 3rd
-                                                        Sunday in Ordinary
-                                                        Time</a
-                                                    ><br /><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/1/btn2026-01-18.pdf?t=1768675591000"
-                                                        >♦ 18 January 2026, 2nd
-                                                        Sunday in Ordinary
-                                                        Time</a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/1/btn2026-01-11.pdf?t=1768010516000"
-                                                    ></a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2026/1/btn2026-01-11.pdf?t=1768010516000"
-                                                        >♦ 11 January 2026,
-                                                        Baptism of the Lord</a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2025/12/btn2026-01-04.pdf?t=1767224569000"
-                                                    ></a
-                                                    ><br /><a
-                                                        href="https://files.ecatholic.com/22617/documents/2025/12/btn2026-01-04.pdf?t=1767224569000"
-                                                        >♦ 04 January 2026,
-                                                        Epiphany of the Lord</a
                                                     ><br /><br />
                                                     <p
                                                         style="
@@ -476,7 +391,7 @@
                                                         Click
                                                         <strong
                                                             ><a
-                                                                href="{{asset('files/Registration%20Form%202025.pdf')}}"
+                                                                href="{{asset('documents/2025/11/Registration Form 2025.pdf')}}"
                                                                 target="_blank"
                                                                 rel="noopener noreferrer"
                                                                 >here</a
@@ -668,7 +583,7 @@
                                                                 class="wysiwygColor3"
                                                                 >♦&nbsp; </span
                                                             ><a
-                                                                href="{{asset('files/pre-auth_donation_plan-fillable.pdf')}}"
+                                                                href="{{asset('documents/2023/12/pre-auth_donation_plan-fillable.pdf')}}"
                                                                 target="_blank"
                                                                 ><u
                                                                     >Download
@@ -852,7 +767,7 @@
                                                             form and submit it
                                                             to the parish
                                                             office.<br /><br /><a
-                                                                href="{{asset('files/Catechism Registration form 2025-2026.pdf')}}"
+                                                                href="{{asset('documents/2025/8/Catechism Registration form 2025-2026.pdf')}}"
                                                                 target="_blank"
                                                                 rel="noopener noreferrer"
                                                                 class="htmlButton htmlButton1"
@@ -1141,7 +1056,7 @@
                                                             "
                                                             >♦
                                                             <a
-                                                                href="{{asset('files/LITURGICAL%20MINISTRY%20GUIDE%20FOR%20%20EXTRAORDINARY%20MINISTERS%20OF%20THE%20EUCHARIST%20%20Nov%202022.pdf')}}"
+                                                                href="{{asset('documents/2023/3/LITURGICAL%20MINISTRY%20GUIDE%20FOR%20%20EXTRAORDINARY%20MINISTERS%20OF%20THE%20EUCHARIST%20%20Nov%202022.pdf')}}"
                                                                 target="_blank"
                                                                 >Guide for
                                                                 Extraordinary
@@ -1150,7 +1065,7 @@
                                                             ><br />
                                                             ♦
                                                             <a
-                                                                href="{{asset('files/LITURGICAL%20MINISTRY%20GUIDE%20FOR%20%20LECTORS%20%20November%20%202022.pdf?t=1679578453000')}}"
+                                                                href="{{asset('documents/2023/3/LITURGICAL%20MINISTRY%20GUIDE%20FOR%20%20LECTORS%20%20November%20%202022.pdf?t=1679578453000')}}"
                                                                 target="_blank"
                                                                 >Liturgical
                                                                 Ministry Guide
@@ -1158,7 +1073,7 @@
                                                             ><br />
                                                             ♦
                                                             <a
-                                                                href="{{asset('files/LITURGICAL%20%20HOSTING%20MINISTRY%20GUIDE%20%20I%20%20Nov%202022.pdf?t=1679578405000')}}"
+                                                                href="{{asset('documents/2023/3/LITURGICAL%20%20HOSTING%20MINISTRY%20GUIDE%20%20I%20%20Nov%202022.pdf?t=1679578405000')}}"
                                                                 target="_blank"
                                                                 >Liturgical
                                                                 Ministry Hosting

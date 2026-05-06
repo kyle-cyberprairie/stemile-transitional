@@ -152,7 +152,7 @@
                                                     church, at the parish office
                                                     or you may download it
                                                     below:<br /><br /><a
-                                                        href="{{asset('files/Catechism Registration form 2025-2026.pdf')}}"
+                                                        href="{{asset('documents/2025/8/Catechism Registration form 2025-2026.pdf')}}"
                                                         target="_blank"
                                                         >Catechism Registration
                                                         Form</a

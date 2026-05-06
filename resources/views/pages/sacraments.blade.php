@@ -288,7 +288,7 @@
                                                 </p>
                                                 <p>
                                                     <a
-                                                        href="https://files.ecatholic.com/22617/documents/2020/3/SpiritualCommunion.pdf?t=1584743372000"
+                                                        href="/documents/2020/3/SpiritualCommunion.pdf?t=1584743372000"
                                                         target="_blank"
                                                         >Download to print</a
                                                     >.
@@ -339,7 +339,7 @@
                                                 class="youtube video moduleBody"
                                                 width="640"
                                                 height="360"
-                                                src="Attending%20mass%20at%20St.%20Emile%20Parish%20-%20St.%20Emile%20Roman%20Catholic%20Church%20-%20Winnipeg,%20Manitoba_files/co0qalRkEJs.html"
+                                                src="https://www.youtube.com/embed/co0qalRkEJs?si=3-y4JroBQdiJJnB5"
                                                 frameborder="0"
                                                 wmode="Opaque"
                                                 allowfullscreen=""
@@ -418,7 +418,7 @@
                                                 <li class="document group">
                                                     <a
                                                         class="name"
-                                                        href="https://files.ecatholic.com/22617/documents/2019/4/Rediscovering-the-Mass.pdf?t=1556663413000"
+                                                        href="/documents/2019/4/Rediscovering-the-Mass.pdf"
                                                         target="_blank"
                                                         >Rediscovering the
                                                         Mass</a

@@ -462,7 +462,7 @@
                                                         style="font-size: 16px"
                                                         ><u
                                                             ><a
-                                                                href="{{ asset('files/PrayerOfParishRenewal.pdf') }}"
+                                                                href="{{ asset('documents/2020/4/PrayerOfParishRenewal.pdf') }}"
                                                                 target="_blank"
                                                                 >Download the
                                                                 prayer for

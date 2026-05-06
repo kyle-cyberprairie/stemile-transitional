@@ -1215,7 +1215,7 @@
                                                     <ul>
                                                         <li>
                                                             <a
-                                                                href="{{ asset('files/St.-Emile-AGM-2025-FINAL.pdf') }}"
+                                                                href="{{ asset('documents/2025/6/St.-Emile-AGM-2025-FINAL.pdf') }}"
                                                                 target="_blank"
                                                                 >St. Emile AGM
                                                                 2025</a
@@ -1232,7 +1232,7 @@
                                                                     font-size: 16px;
                                                                 "
                                                                 ><a
-                                                                    href="{{ asset('files/St.%20Emile%20AGM%202024.pdf') }}"
+                                                                    href="{{ asset('documents/2024/6/St.%20Emile%20AGM%202024.pdf') }}"
                                                                     target="_blank"
                                                                     >Ministry
                                                                     and
@@ -1248,7 +1248,7 @@
                                                                     font-size: 16px;
                                                                 "
                                                                 ><a
-                                                                    href="{{ asset('files/St.%20Emile%20AGM%202023%20FINAL.pdf') }}"
+                                                                    href="{{ asset('documents/2023/10/St.%20Emile%20AGM%202023%20FINAL.pdf') }}"
                                                                     target="_blank"
                                                                     >Ministry
                                                                     and
@@ -1264,7 +1264,7 @@
                                                                     font-size: 16px;
                                                                 "
                                                                 ><a
-                                                                    href="{{ asset('files/St.%20Emile%20Parish%20AGM%202022.pdf') }}"
+                                                                    href="{{ asset('documents/2022/6/St.%20Emile%20Parish%20AGM%202022.pdf') }}"
                                                                     target="_blank"
                                                                     >Ministry
                                                                     and
@@ -1280,7 +1280,7 @@
                                                                     font-size: 16px;
                                                                 "
                                                                 ><a
-                                                                    href="{{ asset('files/StEmileParishAGM2021.pdf') }}"
+                                                                    href="{{ asset('documents/2021/5/StEmileParishAGM2021.pdf') }}"
                                                                     target="_blank"
                                                                     >Ministry
                                                                     and
@@ -1296,7 +1296,7 @@
                                                                     font-size: 16px;
                                                                 "
                                                                 ><a
-                                                                    href="{{ asset('files/2020AGMreports-noContactInfo.pdf') }}"
+                                                                    href="{{ asset('documents/2020/4/2020AGMreports-noContactInfo.pdf') }}"
                                                                     target="_blank"
                                                                     >Ministry
                                                                     and

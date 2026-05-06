@@ -178,7 +178,7 @@
 
                                             <div class="moduleBody">
                                                 <a
-                                                    href="https://st-emile.org/documents/2025/11/Registration%20Form%202025.pdf"
+                                                    href="{{asset('documents/2025/11/Registration Form 2025.pdf')}}"
                                                     target="_blank"
                                                     class="buttonModuleButton firstButton customButton hasImage"
                                                     buttonname=""
