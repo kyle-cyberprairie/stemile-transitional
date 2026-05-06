@@ -223,7 +223,7 @@
                                                         receive the bulletin by
                                                         email as soon as it's
                                                         ready? &nbsp;<a
-                                                            href="https://st-emile.org/parish-life"
+                                                            href="/parish-life"
                                                             target="_blank"
                                                             >Sign up here.</a
                                                         ></span

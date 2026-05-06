@@ -19,7 +19,7 @@
                                     "
                                 >
                                     <a
-                                        href="https://st-emile.org/rcia"
+                                        href="/rcia"
                                         target="_self"
                                         class="slideshowImageWrapper hasCaption visible active"
                                         style="
@@ -67,7 +67,7 @@
                                                 ></span>
                                             </div></div></a
                                     ><a
-                                        href="https://st-emile.org/youth"
+                                        href="/youth"
                                         target="_self"
                                         class="slideshowImageWrapper hasCaption"
                                         style="
@@ -115,7 +115,7 @@
                                                 ></span>
                                             </div></div></a
                                     ><a
-                                        href="https://st-emile.org/men"
+                                        href="/men"
                                         target="_self"
                                         class="slideshowImageWrapper hasCaption "
                                         style="
@@ -158,7 +158,7 @@
                                                 ></span>
                                             </div></div></a
                                     ><a
-                                        href="https://st-emile.org/finance"
+                                        href="/finance"
                                         target="_self"
                                         class="slideshowImageWrapper hasCaption"
                                         style="
@@ -202,7 +202,7 @@
                                                 ></span>
                                             </div></div></a
                                     ><a
-                                        href="https://st-emile.org/ppc"
+                                        href="/ppc"
                                         target="_self"
                                         class="slideshowImageWrapper hasCaption"
                                         style="

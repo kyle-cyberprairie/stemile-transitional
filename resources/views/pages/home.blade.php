@@ -30,7 +30,7 @@
 
                                             <div class="moduleBody">
                                                 <a
-                                                    href="https://st-emile.org/sacraments"
+                                                    href="/sacraments"
                                                     target="_self"
                                                     class="buttonModuleButton firstButton customButton hasImage"
                                                     buttonname=""
@@ -104,7 +104,7 @@
 
                                             <div class="moduleBody">
                                                 <a
-                                                    href="https://st-emile.org/contact"
+                                                    href="/contact"
                                                     target="_self"
                                                     class="buttonModuleButton firstButton customButton hasImage"
                                                     buttonname=""
@@ -252,7 +252,7 @@
 
                                             <div class="moduleBody">
                                                 <a
-                                                    href="https://st-emile.org/documents/2026/5/btn2026-05-03.pdf"
+                                                    href="/documents/2026/5/btn2026-05-03.pdf"
                                                     target="_blank"
                                                     class="buttonModuleButton firstButton customButton hasImage"
                                                     buttonname=""

@@ -886,7 +886,7 @@
                                                                 church and
                                                                 electronically
                                                                 <a
-                                                                    href="https://st-emile.org/ministries"
+                                                                    href="/ministries"
                                                                     target="_blank"
                                                                     >on this web
                                                                     site</a
@@ -1014,7 +1014,7 @@
                                                                 church and
                                                                 electronically
                                                                 <a
-                                                                    href="https://st-emile.org/ministries"
+                                                                    href="/ministries"
                                                                     target="_blank"
                                                                     >on this web
                                                                     site</a
@@ -1116,7 +1116,7 @@
                                                             <p>
                                                                 Check out the
                                                                 <a
-                                                                    href="https://st-emile.org/ministries"
+                                                                    href="/ministries"
                                                                     target="_blank"
                                                                     >Ministries
                                                                     page</a
@@ -1145,7 +1145,7 @@
                                                                 church and
                                                                 electronically
                                                                 <a
-                                                                    href="https://st-emile.org/ministries"
+                                                                    href="/ministries"
                                                                     target="_blank"
                                                                     >on this web
                                                                     site</a

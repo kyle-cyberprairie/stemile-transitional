@@ -50,7 +50,7 @@
                                                         change, therefore please
                                                         check the
                                                         <a
-                                                            href="https://st-emile.org/docs"
+                                                            href="/docs"
                                                             >bulletin</a
                                                         >
                                                         for the most current
